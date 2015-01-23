@@ -1,0 +1,16 @@
+
+%silent {
+  width: calc(50px * 2);
+}
+
+.silent {
+  inherit: %silent;
+}
+
+.extend {
+  width: 100%;
+}
+
+body {
+  inherit: .extend;
+}

@@ -10,6 +10,7 @@ var features = [
   'calc',
   'custom-media',
   'import',
+  'inherit',
   'prefixes',
   'vars'
 ];
