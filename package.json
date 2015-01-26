@@ -18,7 +18,6 @@
     "pad-component": "0.0.1",
     "read-file-stdin": "0.0.3",
     "rework": "^1.0.0",
-    "rework-rem-fallback": "^1.0.0",
     "rework-suit": "git://github.com/thompsongl/rework-suit.git#thompsongl",
     "write-file-stdout": "0.0.2"
   },
