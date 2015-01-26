@@ -19,7 +19,7 @@
     "read-file-stdin": "0.0.3",
     "rework": "^1.0.0",
     "rework-inherit": "^0.2.3",
-    "rework-suit": "^4.0.0",
+    "rework-suit": "git+https://git@github.com/thompsongl/rework-suit.git#inherit",
     "write-file-stdout": "0.0.2"
   },
   "devDependencies": {
